@@ -1,0 +1,52 @@
+<?php
+class General_model extends CI_Model {
+ 
+	function __construct(){
+		parent::__construct();
+	}
+	
+	function get($table, $where = NULL){
+		$this->db->select("$table.*");
+		$this->db->from($table);
+		if($where != NULL){
+			$this->db->where($where);
+		}
+		return $this->db->get();
+	}
+	
+	function add($table,$data){
+		$this->db->insert($table,$data);
+	}
+	
+	function edit($id, $table, $data){
+		$this->db->where('id_biaya', $id);
+		$this->db->update($table, $data);
+		return true;
+	}
+	
+	function cek_data($nip){
+		$this->db->select('nip');
+		$this->db->where('nip', $nip);
+		 $this->db->from('data_pegawai');
+		$result = $this->db->get();
+		if($result->num_rows() > 0){
+			return true;
+		}else{
+		 return false;
+		}
+	}
+	
+	function get_data($tabel, $key, $value, $balikan)
+	{
+		$query = $this->db->query(" select $balikan from $tabel where $key='$value' ")->row();
+		return $query->$balikan;
+	}
+	
+	public function get_sql($sql, $balikan)
+	{
+		$query = $this->db->query("	$sql ")->row();
+		return $query->$balikan;
+	}
+}
+	
+	

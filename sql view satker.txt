@@ -1,0 +1,7 @@
+CREATE OR REPLACE VIEW ms_satker_tvri AS
+SELECT CONCAT(iddirektorat,'0000') AS idsatker, iddirektorat, '00' AS idbidang, '00' AS idseksi, nama_direktorat AS nama_satker FROM ms_direktorat WHERE aktif='1'
+UNION 
+SELECT CONCAT(idbidang,'00') AS idsatker, ms_bidang.iddirektorat, idbidang, '00' AS idseksi, CONCAT(ms_bidang.nama_bidang, ', ',ms_direktorat.nama_direktorat ) AS nama_satker FROM ms_bidang JOIN ms_direktorat ON ms_bidang.`iddirektorat`=ms_direktorat.`iddirektorat`  WHERE ms_bidang.aktif='1'
+UNION 
+SELECT idseksi AS idsatker, ms_bidang.iddirektorat, ms_seksi.idbidang, idseksi, CONCAT(ms_seksi.nama_seksi, ', ', ms_bidang.nama_bidang, ', ',ms_direktorat.nama_direktorat ) AS nama_satker FROM ms_seksi JOIN ms_bidang ON ms_bidang.`idbidang`=ms_seksi.`idbidang` JOIN ms_direktorat ON ms_bidang.`iddirektorat`=ms_direktorat.`iddirektorat` WHERE ms_seksi.`aktif`='1'
+ORDER BY 2,3,4

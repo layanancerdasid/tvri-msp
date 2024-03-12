@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-09-09 14:23:50 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:23:50 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:23:50 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:23:50 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:23:51 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:27:59 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:28:00 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:28:00 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:28:03 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:28:03 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:28:03 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:28:09 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:28:09 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:28:09 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:29:40 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:29:40 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:29:40 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:31:15 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:31:15 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:31:15 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:31:21 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:31:21 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:31:21 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:32:35 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:32:35 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:32:35 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:33:21 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:33:21 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:33:47 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets
+ERROR - 2020-09-09 14:33:52 --> 404 Page Not Found: ../modules/auth/controllers/Auth/assets

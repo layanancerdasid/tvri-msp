@@ -1,0 +1,108 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-19 09:21:40 --> Query error: Table 'tvri.app_users' doesn't exist - Invalid query: select * from app_users where email="admin@admin.com"
+ERROR - 2020-10-19 09:26:53 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 09:27:01 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 09:27:48 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST) C:\xampp\htdocs\tvri\application\modules\master2\controllers\Master2.php 21
+ERROR - 2020-10-19 09:28:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Master' does not have a method 'page_not_found' C:\xampp\htdocs\tvri\system\core\CodeIgniter.php 532
+ERROR - 2020-10-19 09:43:15 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 135
+ERROR - 2020-10-19 09:43:59 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 135
+ERROR - 2020-10-19 09:45:06 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 135
+ERROR - 2020-10-19 09:45:43 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 135
+ERROR - 2020-10-19 09:46:09 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 09:48:40 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 09:48:40 --> Severity: error --> Exception: Too few arguments to function helper_log(), 0 passed in C:\xampp\htdocs\tvri\application\modules\master\controllers\Master.php on line 403 and at least 1 expected C:\xampp\htdocs\tvri\system\helpers\log_helper.php 4
+ERROR - 2020-10-19 09:49:22 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 09:49:22 --> Severity: error --> Exception: Too few arguments to function helper_log(), 0 passed in C:\xampp\htdocs\tvri\application\modules\master\controllers\Master.php on line 403 and at least 1 expected C:\xampp\htdocs\tvri\system\helpers\log_helper.php 4
+ERROR - 2020-10-19 09:51:12 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 09:51:12 --> Severity: error --> Exception: Too few arguments to function helper_log(), 0 passed in C:\xampp\htdocs\tvri\application\modules\master\controllers\Master.php on line 403 and at least 1 expected C:\xampp\htdocs\tvri\system\helpers\log_helper.php 4
+ERROR - 2020-10-19 09:51:36 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 09:54:28 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 09:56:09 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 09:56:49 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 09:57:24 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 09:58:54 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 09:59:49 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:00:41 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:00:45 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:01:00 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:02:06 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:02:11 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:02:18 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:05:03 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:05:07 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:05:50 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:06:04 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:06:07 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:06:11 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:34:00 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:34:00 --> Severity: error --> Exception: Too few arguments to function helper_log(), 0 passed in C:\xampp\htdocs\tvri\application\modules\master\controllers\Master.php on line 848 and at least 1 expected C:\xampp\htdocs\tvri\system\helpers\log_helper.php 4
+ERROR - 2020-10-19 10:34:34 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:34:34 --> Severity: error --> Exception: Too few arguments to function helper_log(), 0 passed in C:\xampp\htdocs\tvri\application\modules\master\controllers\Master.php on line 848 and at least 1 expected C:\xampp\htdocs\tvri\system\helpers\log_helper.php 4
+ERROR - 2020-10-19 10:35:00 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:35:25 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:38:49 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:48:44 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:48:49 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:48:53 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:57:10 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:57:15 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:57:24 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:58:46 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 10:58:50 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 11:00:10 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 11:00:15 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 11:00:37 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 11:00:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 656
+ERROR - 2020-10-19 11:00:44 --> Severity: Warning --> array_merge(): Expected parameter 2 to be an array, null given C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 665
+ERROR - 2020-10-19 11:00:45 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 11:00:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 656
+ERROR - 2020-10-19 11:00:46 --> Severity: Warning --> array_merge(): Expected parameter 2 to be an array, null given C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 665
+ERROR - 2020-10-19 11:00:46 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 11:02:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 656
+ERROR - 2020-10-19 11:02:57 --> Severity: Warning --> array_merge(): Expected parameter 2 to be an array, null given C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 665
+ERROR - 2020-10-19 11:02:57 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 11:02:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 656
+ERROR - 2020-10-19 11:02:58 --> Severity: Warning --> array_merge(): Expected parameter 2 to be an array, null given C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 665
+ERROR - 2020-10-19 11:02:58 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 11:05:37 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 11:05:37 --> Severity: error --> Exception: Too few arguments to function helper_log(), 0 passed in C:\xampp\htdocs\tvri\application\modules\master\controllers\Master.php on line 317 and at least 1 expected C:\xampp\htdocs\tvri\system\helpers\log_helper.php 4
+ERROR - 2020-10-19 11:06:09 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 11:08:55 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 11:11:44 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 11:11:56 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 11:13:21 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 12:51:55 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 12:54:02 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 12:55:26 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 13:21:08 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Master' does not have a method 'page_not_found' C:\xampp\htdocs\tvri\system\core\CodeIgniter.php 532
+ERROR - 2020-10-19 13:21:10 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 13:22:47 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Master' does not have a method 'page_not_found' C:\xampp\htdocs\tvri\system\core\CodeIgniter.php 532
+ERROR - 2020-10-19 13:22:50 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 13:30:31 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 13:30:40 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 15:17:09 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 15:18:32 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 15:19:07 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 15:20:06 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 15:57:05 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 15:58:55 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 15:59:37 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:00:59 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:10:02 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:10:57 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:12:00 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:14:31 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:20:18 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:20:59 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:21:32 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:25:35 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:29:24 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:32:15 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:44:02 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:44:30 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:46:26 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:46:35 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:47:49 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:50:32 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
+ERROR - 2020-10-19 16:51:22 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\xampp\htdocs\tvri\application\libraries\phpgrid\jqgrid_dist.php 4116
